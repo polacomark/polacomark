@@ -1,12 +1,17 @@
 ### Cesar Gabriel Markieviche 👋
 
-- 😄 💬 Soy un Emprendedor y Desarrolador FullStack web con ganas de aportar mis experiencias, cuento con un marcado perfil comercial y en gestión por procesos ...  destaco la dedicación y trabajo en equipo aplicado al logro de resultados... 
+- 😄 💬 Soy un Emprendedor y Desarrollador FullStack con ganas de aportar mis experiencias, cuento con un marcado perfil comercial y en gestión por procesos ...  destaco la dedicación y trabajo en equipo aplicado al logro de resultados... 
 
-- ⚡ Habilidades: HTML | CSS | JavaScript | React.js |React Native | Redux | Node.js | Express.js | Sequelize | PostgreSQL | Firebase | PWA ⚡
+- ⚡ Habilidades: HTML | CSS | JavaScript | React.js |React Native | Redux | Node.js | Express.js | Sequelize | PostgreSQL | Firebase | PWA. ⚡
 
 🔧 Herramientas: VSCode | Trello | Git | GitHub.
 
-
+## Countries App:
+![1]()
+![2](https://github.com/polacomark/polacomark/blob/main/assest/descarga%20(1).png)
+!(https://github.com/polacomark/polacomark/blob/main/assest/descarga.png)
+!(https://github.com/polacomark/polacomark/blob/main/assest/el_remozado_javascript.imagen.jpg)
+!(https://github.com/polacomark/polacomark/blob/main/assest/react.png)
 <!--
 **polacomark/polacomark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
