@@ -7,11 +7,16 @@
 🔧 Herramientas: VSCode | Trello | Git | GitHub.
 
 ## Countries App:
-![1]()
-![2](https://github.com/polacomark/polacomark/blob/main/assest/descarga%20(1).png)
-!(https://github.com/polacomark/polacomark/blob/main/assest/descarga.png)
-!(https://github.com/polacomark/polacomark/blob/main/assest/el_remozado_javascript.imagen.jpg)
-!(https://github.com/polacomark/polacomark/blob/main/assest/react.png)
+<p> 
+<img src= ''/>
+</p>
+<Link to='https://www.linkedin.com/feed/update/urn:li:activity:6908428301812273152/'/>
+<p>
+<img height="240" src='https://github.com/polacomark/polacomark/blob/main/assest/descarga%20(1).png'/>
+<img height="240" src='https://github.com/polacomark/polacomark/blob/main/assest/descarga.png'/>
+<img height="240" src='https://github.com/polacomark/polacomark/blob/main/assest/el_remozado_javascript.imagen.jpg'/>
+<img height="240" src='https://github.com/polacomark/polacomark/blob/main/assest/react.png'/>
+</p>
 <!--
 **polacomark/polacomark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
